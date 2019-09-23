@@ -1,0 +1,412 @@
+{
+  "compatibleVersion": "2.0",
+  "pluginVersion": "2.2",
+  "colors": [
+    {
+      "name": "color-gray-10",
+      "red": "0.96",
+      "green": "0.96",
+      "blue": "0.97",
+      "alpha": 1
+    },
+    {
+      "name": "color-gray-20",
+      "red": "0.91",
+      "green": "0.91",
+      "blue": "0.92",
+      "alpha": 1
+    },
+    {
+      "name": "color-gray-30",
+      "red": "0.83",
+      "green": "0.83",
+      "blue": "0.84",
+      "alpha": 1
+    },
+    {
+      "name": "color-gray-40",
+      "red": "0.69",
+      "green": "0.69",
+      "blue": "0.71",
+      "alpha": 1
+    },
+    {
+      "name": "color-gray-50",
+      "red": "0.51",
+      "green": "0.51",
+      "blue": "0.53",
+      "alpha": 1
+    },
+    {
+      "name": "color-gray-60",
+      "red": "0.34",
+      "green": "0.34",
+      "blue": "0.36",
+      "alpha": 1
+    },
+    {
+      "name": "color-gray-70",
+      "red": "0.21",
+      "green": "0.22",
+      "blue": "0.23",
+      "alpha": 1
+    },
+    {
+      "name": "color-gray-80",
+      "red": "0.15",
+      "green": "0.15",
+      "blue": "0.16",
+      "alpha": 1
+    },
+    {
+      "name": "color-gray-90",
+      "red": "0.11",
+      "green": "0.12",
+      "blue": "0.13",
+      "alpha": 1
+    },
+    {
+      "name": "color-blue-10",
+      "red": "0.93",
+      "green": "0.95",
+      "blue": "1.00",
+      "alpha": 1
+    },
+    {
+      "name": "color-blue-20",
+      "red": "0.81",
+      "green": "0.85",
+      "blue": "0.98",
+      "alpha": 1
+    },
+    {
+      "name": "color-blue-30",
+      "red": "0.63",
+      "green": "0.72",
+      "blue": "0.95",
+      "alpha": 1
+    },
+    {
+      "name": "color-blue-40",
+      "red": "0.41",
+      "green": "0.55",
+      "blue": "0.91",
+      "alpha": 1
+    },
+    {
+      "name": "color-blue-50",
+      "red": "0.16",
+      "green": "0.36",
+      "blue": "0.84",
+      "alpha": 1
+    },
+    {
+      "name": "color-blue-60",
+      "red": "0.01",
+      "green": "0.21",
+      "blue": "0.73",
+      "alpha": 1
+    },
+    {
+      "name": "color-blue-70",
+      "red": "0.00",
+      "green": "0.16",
+      "blue": "0.58",
+      "alpha": 1
+    },
+    {
+      "name": "color-blue-80",
+      "red": "0.00",
+      "green": "0.12",
+      "blue": "0.43",
+      "alpha": 1
+    },
+    {
+      "name": "color-blue-90",
+      "red": "0.00",
+      "green": "0.07",
+      "blue": "0.27",
+      "alpha": 1
+    },
+    {
+      "name": "color-teal-10",
+      "red": "0.88",
+      "green": "0.98",
+      "blue": "0.96",
+      "alpha": 1
+    },
+    {
+      "name": "color-teal-20",
+      "red": "0.76",
+      "green": "0.96",
+      "blue": "0.93",
+      "alpha": 1
+    },
+    {
+      "name": "color-teal-30",
+      "red": "0.63",
+      "green": "0.95",
+      "blue": "0.90",
+      "alpha": 1
+    },
+    {
+      "name": "color-teal-40",
+      "red": "0.49",
+      "green": "0.93",
+      "blue": "0.85",
+      "alpha": 1
+    },
+    {
+      "name": "color-teal-50",
+      "red": "0.36",
+      "green": "0.90",
+      "blue": "0.81",
+      "alpha": 1
+    },
+    {
+      "name": "color-teal-60",
+      "red": "0.30",
+      "green": "0.72",
+      "blue": "0.66",
+      "alpha": 1
+    },
+    {
+      "name": "color-teal-70",
+      "red": "0.25",
+      "green": "0.55",
+      "blue": "0.51",
+      "alpha": 1
+    },
+    {
+      "name": "color-teal-80",
+      "red": "0.20",
+      "green": "0.38",
+      "blue": "0.38",
+      "alpha": 1
+    },
+    {
+      "name": "color-teal-90",
+      "red": "0.15",
+      "green": "0.23",
+      "blue": "0.25",
+      "alpha": 1
+    },
+    {
+      "name": "color-red-10",
+      "red": "1.00",
+      "green": "0.90",
+      "blue": "0.89",
+      "alpha": 1
+    },
+    {
+      "name": "color-red-20",
+      "red": "1.00",
+      "green": "0.77",
+      "blue": "0.75",
+      "alpha": 1
+    },
+    {
+      "name": "color-red-30",
+      "red": "1.00",
+      "green": "0.64",
+      "blue": "0.60",
+      "alpha": 1
+    },
+    {
+      "name": "color-red-40",
+      "red": "0.99",
+      "green": "0.49",
+      "blue": "0.44",
+      "alpha": 1
+    },
+    {
+      "name": "color-red-50",
+      "red": "0.97",
+      "green": "0.32",
+      "blue": "0.28",
+      "alpha": 1
+    },
+    {
+      "name": "color-red-60",
+      "red": "0.84",
+      "green": "0.25",
+      "blue": "0.21",
+      "alpha": 1
+    },
+    {
+      "name": "color-red-70",
+      "red": "0.71",
+      "green": "0.20",
+      "blue": "0.16",
+      "alpha": 1
+    },
+    {
+      "name": "color-red-80",
+      "red": "0.58",
+      "green": "0.15",
+      "blue": "0.11",
+      "alpha": 1
+    },
+    {
+      "name": "color-red-90",
+      "red": "0.45",
+      "green": "0.11",
+      "blue": "0.08",
+      "alpha": 1
+    },
+    {
+      "name": "color-yellow-10",
+      "red": "1.00",
+      "green": "0.96",
+      "blue": "0.86",
+      "alpha": 1
+    },
+    {
+      "name": "color-yellow-20",
+      "red": "1.00",
+      "green": "0.93",
+      "blue": "0.75",
+      "alpha": 1
+    },
+    {
+      "name": "color-yellow-30",
+      "red": "1.00",
+      "green": "0.90",
+      "blue": "0.63",
+      "alpha": 1
+    },
+    {
+      "name": "color-yellow-40",
+      "red": "1.00",
+      "green": "0.87",
+      "blue": "0.51",
+      "alpha": 1
+    },
+    {
+      "name": "color-yellow-50",
+      "red": "1.00",
+      "green": "0.84",
+      "blue": "0.39",
+      "alpha": 1
+    },
+    {
+      "name": "color-yellow-60",
+      "red": "0.87",
+      "green": "0.68",
+      "blue": "0.30",
+      "alpha": 1
+    },
+    {
+      "name": "color-yellow-70",
+      "red": "0.73",
+      "green": "0.54",
+      "blue": "0.21",
+      "alpha": 1
+    },
+    {
+      "name": "color-yellow-80",
+      "red": "0.59",
+      "green": "0.40",
+      "blue": "0.11",
+      "alpha": 1
+    },
+    {
+      "name": "color-yellow-90",
+      "red": "0.45",
+      "green": "0.27",
+      "blue": "0.02",
+      "alpha": 1
+    },
+    {
+      "name": "color-green-10",
+      "red": "0.89",
+      "green": "0.95",
+      "blue": "0.88",
+      "alpha": 1
+    },
+    {
+      "name": "color-green-20",
+      "red": "0.78",
+      "green": "0.90",
+      "blue": "0.73",
+      "alpha": 1
+    },
+    {
+      "name": "color-green-30",
+      "red": "0.67",
+      "green": "0.85",
+      "blue": "0.58",
+      "alpha": 1
+    },
+    {
+      "name": "color-green-40",
+      "red": "0.58",
+      "green": "0.80",
+      "blue": "0.47",
+      "alpha": 1
+    },
+    {
+      "name": "color-green-50",
+      "red": "0.49",
+      "green": "0.75",
+      "blue": "0.36",
+      "alpha": 1
+    },
+    {
+      "name": "color-green-60",
+      "red": "0.40",
+      "green": "0.60",
+      "blue": "0.30",
+      "alpha": 1
+    },
+    {
+      "name": "color-green-70",
+      "red": "0.32",
+      "green": "0.46",
+      "blue": "0.24",
+      "alpha": 1
+    },
+    {
+      "name": "color-green-80",
+      "red": "0.24",
+      "green": "0.33",
+      "blue": "0.19",
+      "alpha": 1
+    },
+    {
+      "name": "color-green-90",
+      "red": "0.16",
+      "green": "0.20",
+      "blue": "0.14",
+      "alpha": 1
+    },
+    {
+      "name": "color-brand-navy",
+      "red": "0.09",
+      "green": "0.18",
+      "blue": "0.25",
+      "alpha": 1
+    },
+    {
+      "name": "color-brand-orannge",
+      "red": "0.93",
+      "green": "0.38",
+      "blue": "0.14",
+      "alpha": 1
+    },
+    {
+      "name": "color-black",
+      "red": "0.00",
+      "green": "0.00",
+      "blue": "0.00",
+      "alpha": 1
+    },
+    {
+      "name": "color-white",
+      "red": "1.00",
+      "green": "1.00",
+      "blue": "1.00",
+      "alpha": 1
+    }
+  ]
+}

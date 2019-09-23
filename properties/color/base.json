@@ -1,0 +1,76 @@
+{
+  "color": {
+    "gray": {
+      "10": { "value": "#F5F6F7" },
+      "20": { "value": "#E8E9EB" },
+      "30": { "value": "#D3D4D7" },
+      "40": { "value": "#B0B1B4" },
+      "50": { "value": "#828387" },
+      "60": { "value": "#56575B" },
+      "70": { "value": "#36383B" },
+      "80": { "value": "#252628" },
+      "90": { "value": "#1D1F21" }
+    },
+    "blue": {
+      "10": { "value": "#EDF2FE" },
+      "20": { "value": "#CEDAFA" },
+      "30": { "value": "#A1B8F3" },
+      "40": { "value": "#688DE8" },
+      "50": { "value": "#2A5BD7" },
+      "60": { "value": "#0236B9" },
+      "70": { "value": "#002A95" },
+      "80": { "value": "#001F6D" },
+      "90": { "value": "#001345" }
+    },
+    "teal": {
+      "10": { "value": "#E1FAF6" },
+      "20": { "value": "#C2F6ED" },
+      "30": { "value": "#A0F2E5" },
+      "40": { "value": "#7EECDA" },
+      "50": { "value": "#5CE6CF" },
+      "60": { "value": "#4DB8A8" },
+      "70": { "value": "#408C83" },
+      "80": { "value": "#346260" },
+      "90": { "value": "#263B40" }
+    },
+    "red": {
+      "10": { "value": "#FEE6E4" },
+      "20": { "value": "#FFC5BF" },
+      "30": { "value": "#FFA298" },
+      "40": { "value": "#FC7D71" },
+      "50": { "value": "#F75248" },
+      "60": { "value": "#D64136" },
+      "70": { "value": "#B53328" },
+      "80": { "value": "#94261D" },
+      "90": { "value": "#731B14" }
+    },
+    "yellow": {
+      "10": { "value": "#FFF5DC" },
+      "20": { "value": "#FFEDBF" },
+      "30": { "value": "#FFE6A1" },
+      "40": { "value": "#FFDD83" },
+      "50": { "value": "#FFD563" },
+      "60": { "value": "#DDAE4C" },
+      "70": { "value": "#BA8935" },
+      "80": { "value": "#97671D" },
+      "90": { "value": "#744605" }
+    },
+    "green": {
+      "10": { "value": "#E2F1E0" },
+      "20": { "value": "#C7E6BB" },
+      "30": { "value": "#ACDA95" },
+      "40": { "value": "#94CD77" },
+      "50": { "value": "#7DBF5C" },
+      "60": { "value": "#669A4C" },
+      "70": { "value": "#51763E" },
+      "80": { "value": "#3C5331" },
+      "90": { "value": "#293324" }
+    },
+    "brand": {
+      "navy": { "value": "#172F41" },
+      "orannge": { "value": "#EE6123" }
+    },
+    "black": { "value": "#000000" },
+    "white": { "value": "#ffffff" }
+  }
+}
