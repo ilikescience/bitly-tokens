@@ -1,0 +1,33 @@
+{
+    "grid": {
+      "xl": {
+        "totalWidth": { "value": "1140"},
+        "numberOfColumns": { "value": "12" },
+        "columnWidth": { "value": "75"},
+        "gutterWidth": { "value": "20"},
+        "gutterOnOutside": { "value": "true"}
+      },
+      "l": {
+        "totalWidth": { "value": "860"},
+        "numberOfColumns": { "value": "12" },
+        "columnWidth": { "value": "52"},
+        "gutterWidth": { "value": "20"},
+        "gutterOnOutside": { "value": "true"}
+      },
+      "m": {
+        "totalWidth": { "value": "560"},
+        "numberOfColumns": { "value": "6" },
+        "columnWidth": { "value": "73"},
+        "gutterWidth": { "value": "20"},
+        "gutterOnOutside": { "value": "true"}
+      },
+      "s": {
+        "totalWidth": { "value": "355"},
+        "numberOfColumns": { "value": "4" },
+        "columnWidth": { "value": "69"},
+        "gutterWidth": { "value": "20"},
+        "gutterOnOutside": { "value": "true"}
+      }
+    }
+  }
+  
