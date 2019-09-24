@@ -17,7 +17,7 @@
         "format": "css/variables"
       }]
     },
-    "sketch": {
+    "sketchPalette": {
       "buildPath": "dist/sketch/",
       "transforms": ["attribute/cti", "name/cti/kebab", "color/sketch"],
       "files": [{
@@ -28,6 +28,13 @@
             "category": "color"
           }
         }
+      }]
+    },
+    "js": {
+      "transformGroup": "js",
+      "files": [{
+        "destination": "tokens.js",
+        "format": "javascript/module"
       }]
     }
   }
