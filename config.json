@@ -33,7 +33,7 @@
     "js": {
       "transformGroup": "js",
       "files": [{
-        "destination": "tokens.js",
+        "destination": "dist/tokens.js",
         "format": "javascript/module"
       }]
     }
