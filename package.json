@@ -1,6 +1,6 @@
 {
   "name": "bitly-tokens",
-  "version": "0.1.1-1",
+  "version": "0.1.1-2",
   "description": "Bitly style tokens",
   "main": "dist/tokens.js",
   "scripts": {
