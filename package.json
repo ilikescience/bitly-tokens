@@ -2,7 +2,7 @@
   "name": "bitly-tokens",
   "version": "0.1.1-1",
   "description": "Bitly style tokens",
-  "main": "index.js",
+  "main": "dist/tokens.js",
   "scripts": {
     "clean": "rimraf ./dist",
     "prepublishOnly": "run-s clean build",
