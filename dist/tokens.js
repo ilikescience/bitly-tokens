@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 24 Sep 2019 21:06:44 GMT
+ * Generated on Wed, 25 Sep 2019 15:10:38 GMT
  */
 
 module.exports = {
@@ -1072,21 +1072,21 @@ module.exports = {
           "gutterWidth"
         ]
       },
-      "gutterOnOutside": {
+      "guttersOutside": {
         "value": "true",
         "original": {
           "value": "true"
         },
-        "name": "GridXlGutterOnOutside",
+        "name": "GridXlGuttersOutside",
         "attributes": {
           "category": "grid",
           "type": "xl",
-          "item": "gutterOnOutside"
+          "item": "guttersOutside"
         },
         "path": [
           "grid",
           "xl",
-          "gutterOnOutside"
+          "guttersOutside"
         ]
       }
     },
@@ -1159,21 +1159,21 @@ module.exports = {
           "gutterWidth"
         ]
       },
-      "gutterOnOutside": {
+      "guttersOutside": {
         "value": "true",
         "original": {
           "value": "true"
         },
-        "name": "GridLGutterOnOutside",
+        "name": "GridLGuttersOutside",
         "attributes": {
           "category": "grid",
           "type": "l",
-          "item": "gutterOnOutside"
+          "item": "guttersOutside"
         },
         "path": [
           "grid",
           "l",
-          "gutterOnOutside"
+          "guttersOutside"
         ]
       }
     },
@@ -1246,21 +1246,21 @@ module.exports = {
           "gutterWidth"
         ]
       },
-      "gutterOnOutside": {
+      "guttersOutside": {
         "value": "true",
         "original": {
           "value": "true"
         },
-        "name": "GridMGutterOnOutside",
+        "name": "GridMGuttersOutside",
         "attributes": {
           "category": "grid",
           "type": "m",
-          "item": "gutterOnOutside"
+          "item": "guttersOutside"
         },
         "path": [
           "grid",
           "m",
-          "gutterOnOutside"
+          "guttersOutside"
         ]
       }
     },
@@ -1333,21 +1333,21 @@ module.exports = {
           "gutterWidth"
         ]
       },
-      "gutterOnOutside": {
+      "guttersOutside": {
         "value": "true",
         "original": {
           "value": "true"
         },
-        "name": "GridSGutterOnOutside",
+        "name": "GridSGuttersOutside",
         "attributes": {
           "category": "grid",
           "type": "s",
-          "item": "gutterOnOutside"
+          "item": "guttersOutside"
         },
         "path": [
           "grid",
           "s",
-          "gutterOnOutside"
+          "guttersOutside"
         ]
       }
     }
