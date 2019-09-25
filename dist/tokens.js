@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 25 Sep 2019 15:10:38 GMT
+ * Generated on Wed, 25 Sep 2019 20:12:30 GMT
  */
 
 module.exports = {
@@ -1354,80 +1354,72 @@ module.exports = {
   },
   "size": {
     "font": {
-      "small": {
-        "value": "0.75rem",
-        "comment": "the small size of the font",
+      "s": {
+        "value": "16rem",
         "original": {
-          "value": "0.75",
-          "comment": "the small size of the font"
+          "value": "16"
         },
-        "name": "SizeFontSmall",
+        "name": "SizeFontS",
         "attributes": {
           "category": "size",
           "type": "font",
-          "item": "small"
+          "item": "s"
         },
         "path": [
           "size",
           "font",
-          "small"
+          "s"
         ]
       },
-      "medium": {
-        "value": "1rem",
-        "comment": "the medium size of the font",
+      "m": {
+        "value": "18rem",
         "original": {
-          "value": "1",
-          "comment": "the medium size of the font"
+          "value": "18"
         },
-        "name": "SizeFontMedium",
+        "name": "SizeFontM",
         "attributes": {
           "category": "size",
           "type": "font",
-          "item": "medium"
+          "item": "m"
         },
         "path": [
           "size",
           "font",
-          "medium"
+          "m"
         ]
       },
-      "large": {
-        "value": "2rem",
-        "comment": "the large size of the font",
+      "l": {
+        "value": "24rem",
         "original": {
-          "value": "2",
-          "comment": "the large size of the font"
+          "value": "24"
         },
-        "name": "SizeFontLarge",
+        "name": "SizeFontL",
         "attributes": {
           "category": "size",
           "type": "font",
-          "item": "large"
+          "item": "l"
         },
         "path": [
           "size",
           "font",
-          "large"
+          "l"
         ]
       },
-      "base": {
-        "value": "1rem",
-        "comment": "the base size of the font",
+      "xl": {
+        "value": "32rem",
         "original": {
-          "value": "{size.font.medium.value}",
-          "comment": "the base size of the font"
+          "value": "32"
         },
-        "name": "SizeFontBase",
+        "name": "SizeFontXl",
         "attributes": {
           "category": "size",
           "type": "font",
-          "item": "base"
+          "item": "xl"
         },
         "path": [
           "size",
           "font",
-          "base"
+          "xl"
         ]
       }
     }
