@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 25 Sep 2019 20:21:31 GMT
+ * Generated on Wed, 25 Sep 2019 20:29:15 GMT
  */
 
 module.exports = {
@@ -999,6 +999,23 @@ module.exports = {
       "path": [
         "color",
         "white"
+      ]
+    }
+  },
+  "font": {
+    "sans": {
+      "value": "'Proxima Nova', 'Open Sans', Arial, sans-serif",
+      "original": {
+        "value": "'Proxima Nova', 'Open Sans', Arial, sans-serif"
+      },
+      "name": "FontSans",
+      "attributes": {
+        "category": "font",
+        "type": "sans"
+      },
+      "path": [
+        "font",
+        "sans"
       ]
     }
   },
