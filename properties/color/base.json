@@ -68,9 +68,11 @@
     },
     "brand": {
       "navy": { "value": "#172F41" },
-      "orannge": { "value": "#EE6123" }
+      "orange": { "value": "#EE6123" }
     },
-    "black": { "value": "#000000" },
-    "white": { "value": "#ffffff" }
+    "pure": {
+      "black": { "value": "#000000" },
+      "white": { "value": "#ffffff" }
+    }
   }
 }
