@@ -388,21 +388,21 @@
       "alpha": 1
     },
     {
-      "name": "color-brand-orannge",
+      "name": "color-brand-orange",
       "red": "0.93",
       "green": "0.38",
       "blue": "0.14",
       "alpha": 1
     },
     {
-      "name": "color-black",
+      "name": "color-pure-black",
       "red": "0.00",
       "green": "0.00",
       "blue": "0.00",
       "alpha": 1
     },
     {
-      "name": "color-white",
+      "name": "color-pure-white",
       "red": "1.00",
       "green": "1.00",
       "blue": "1.00",

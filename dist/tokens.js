@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 25 Sep 2019 20:30:12 GMT
+ * Generated on Thu, 26 Sep 2019 19:24:27 GMT
  */
 
 module.exports = {
@@ -953,53 +953,59 @@ module.exports = {
           "navy"
         ]
       },
-      "orannge": {
+      "orange": {
         "value": "#ee6123",
         "original": {
           "value": "#EE6123"
         },
-        "name": "ColorBrandOrannge",
+        "name": "ColorBrandOrange",
         "attributes": {
           "category": "color",
           "type": "brand",
-          "item": "orannge"
+          "item": "orange"
         },
         "path": [
           "color",
           "brand",
-          "orannge"
+          "orange"
         ]
       }
     },
-    "black": {
-      "value": "#000000",
-      "original": {
-        "value": "#000000"
+    "pure": {
+      "black": {
+        "value": "#000000",
+        "original": {
+          "value": "#000000"
+        },
+        "name": "ColorPureBlack",
+        "attributes": {
+          "category": "color",
+          "type": "pure",
+          "item": "black"
+        },
+        "path": [
+          "color",
+          "pure",
+          "black"
+        ]
       },
-      "name": "ColorBlack",
-      "attributes": {
-        "category": "color",
-        "type": "black"
-      },
-      "path": [
-        "color",
-        "black"
-      ]
-    },
-    "white": {
-      "value": "#ffffff",
-      "original": {
-        "value": "#ffffff"
-      },
-      "name": "ColorWhite",
-      "attributes": {
-        "category": "color",
-        "type": "white"
-      },
-      "path": [
-        "color",
-        "white"
-      ]
+      "white": {
+        "value": "#ffffff",
+        "original": {
+          "value": "#ffffff"
+        },
+        "name": "ColorPureWhite",
+        "attributes": {
+          "category": "color",
+          "type": "pure",
+          "item": "white"
+        },
+        "path": [
+          "color",
+          "pure",
+          "white"
+        ]
+      }
     }
   },
   "font": {
