@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 26 Sep 2019 19:37:19 GMT
+ * Generated on Thu, 26 Sep 2019 19:41:23 GMT
  */
 
 module.exports = {
@@ -230,9 +230,9 @@ module.exports = {
         ]
       },
       "50": {
-        "value": "#ff0000",
+        "value": "#2a5bd7",
         "original": {
-          "value": "#ff0000"
+          "value": "#2A5BD7"
         },
         "name": "ColorBlue50",
         "attributes": {
