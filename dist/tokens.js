@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 26 Sep 2019 19:41:23 GMT
+ * Generated on Thu, 03 Oct 2019 18:07:39 GMT
  */
 
 module.exports = {
@@ -157,6 +157,23 @@ module.exports = {
           "color",
           "gray",
           "90"
+        ]
+      },
+      "100": {
+        "value": "#121314",
+        "original": {
+          "value": "#121314"
+        },
+        "name": "ColorGray100",
+        "attributes": {
+          "category": "color",
+          "type": "gray",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "gray",
+          "100"
         ]
       }
     },
@@ -472,9 +489,9 @@ module.exports = {
     },
     "red": {
       "10": {
-        "value": "#fee6e4",
+        "value": "#fee8e7",
         "original": {
-          "value": "#FEE6E4"
+          "value": "#FEE8E7"
         },
         "name": "ColorRed10",
         "attributes": {
@@ -489,9 +506,9 @@ module.exports = {
         ]
       },
       "20": {
-        "value": "#ffc5bf",
+        "value": "#feb7b3",
         "original": {
-          "value": "#FFC5BF"
+          "value": "#FEB7B3"
         },
         "name": "ColorRed20",
         "attributes": {
@@ -506,9 +523,9 @@ module.exports = {
         ]
       },
       "30": {
-        "value": "#ffa298",
+        "value": "#fb8983",
         "original": {
-          "value": "#FFA298"
+          "value": "#FB8983"
         },
         "name": "ColorRed30",
         "attributes": {
@@ -523,9 +540,9 @@ module.exports = {
         ]
       },
       "40": {
-        "value": "#fc7d71",
+        "value": "#f35e57",
         "original": {
-          "value": "#FC7D71"
+          "value": "#F35E57"
         },
         "name": "ColorRed40",
         "attributes": {
@@ -540,9 +557,9 @@ module.exports = {
         ]
       },
       "50": {
-        "value": "#f75248",
+        "value": "#d53d35",
         "original": {
-          "value": "#F75248"
+          "value": "#D53D35"
         },
         "name": "ColorRed50",
         "attributes": {
@@ -557,9 +574,9 @@ module.exports = {
         ]
       },
       "60": {
-        "value": "#d64136",
+        "value": "#ad2d27",
         "original": {
-          "value": "#D64136"
+          "value": "#AD2D27"
         },
         "name": "ColorRed60",
         "attributes": {
@@ -574,9 +591,9 @@ module.exports = {
         ]
       },
       "70": {
-        "value": "#b53328",
+        "value": "#82201b",
         "original": {
-          "value": "#B53328"
+          "value": "#82201B"
         },
         "name": "ColorRed70",
         "attributes": {
@@ -591,9 +608,9 @@ module.exports = {
         ]
       },
       "80": {
-        "value": "#94261d",
+        "value": "#5f1713",
         "original": {
-          "value": "#94261D"
+          "value": "#5F1713"
         },
         "name": "ColorRed80",
         "attributes": {
@@ -608,9 +625,9 @@ module.exports = {
         ]
       },
       "90": {
-        "value": "#731b14",
+        "value": "#41100d",
         "original": {
-          "value": "#731B14"
+          "value": "#41100D"
         },
         "name": "ColorRed90",
         "attributes": {
@@ -782,9 +799,9 @@ module.exports = {
     },
     "green": {
       "10": {
-        "value": "#e2f1e0",
+        "value": "#eef6e9",
         "original": {
-          "value": "#E2F1E0"
+          "value": "#EEF6E9"
         },
         "name": "ColorGreen10",
         "attributes": {
@@ -799,9 +816,9 @@ module.exports = {
         ]
       },
       "20": {
-        "value": "#c7e6bb",
+        "value": "#c1e0af",
         "original": {
-          "value": "#C7E6BB"
+          "value": "#C1E0AF"
         },
         "name": "ColorGreen20",
         "attributes": {
@@ -816,9 +833,9 @@ module.exports = {
         ]
       },
       "30": {
-        "value": "#acda95",
+        "value": "#95c17e",
         "original": {
-          "value": "#ACDA95"
+          "value": "#95C17E"
         },
         "name": "ColorGreen30",
         "attributes": {
@@ -833,9 +850,9 @@ module.exports = {
         ]
       },
       "40": {
-        "value": "#94cd77",
+        "value": "#6e9f57",
         "original": {
-          "value": "#94CD77"
+          "value": "#6E9F57"
         },
         "name": "ColorGreen40",
         "attributes": {
@@ -850,9 +867,9 @@ module.exports = {
         ]
       },
       "50": {
-        "value": "#7dbf5c",
+        "value": "#538140",
         "original": {
-          "value": "#7DBF5C"
+          "value": "#538140"
         },
         "name": "ColorGreen50",
         "attributes": {
@@ -867,9 +884,9 @@ module.exports = {
         ]
       },
       "60": {
-        "value": "#669a4c",
+        "value": "#426835",
         "original": {
-          "value": "#669A4C"
+          "value": "#426835"
         },
         "name": "ColorGreen60",
         "attributes": {
@@ -884,9 +901,9 @@ module.exports = {
         ]
       },
       "70": {
-        "value": "#51763e",
+        "value": "#314d2a",
         "original": {
-          "value": "#51763E"
+          "value": "#314D2A"
         },
         "name": "ColorGreen70",
         "attributes": {
@@ -901,9 +918,9 @@ module.exports = {
         ]
       },
       "80": {
-        "value": "#3c5331",
+        "value": "#20341d",
         "original": {
-          "value": "#3C5331"
+          "value": "#20341D"
         },
         "name": "ColorGreen80",
         "attributes": {
@@ -918,9 +935,9 @@ module.exports = {
         ]
       },
       "90": {
-        "value": "#293324",
+        "value": "#162315",
         "original": {
-          "value": "#293324"
+          "value": "#162315"
         },
         "name": "ColorGreen90",
         "attributes": {
